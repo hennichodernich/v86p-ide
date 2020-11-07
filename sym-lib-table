@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name v86p-ide-rescue)(type Legacy)(uri ${KIPRJMOD}/v86p-ide-rescue.lib)(options "")(descr ""))
+)
